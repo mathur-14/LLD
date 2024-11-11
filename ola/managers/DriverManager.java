@@ -7,7 +7,6 @@ import java.util.stream.Collectors;
 
 import ola.models.Driver;
 
-// File name: DriverManager.java
 public class DriverManager {
     private static DriverManager instance;
     private Map<String, Driver> drivers;
